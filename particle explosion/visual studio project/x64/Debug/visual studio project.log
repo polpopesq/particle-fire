@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\paulp\source\repos\visual studio project\visual studio project\main.cpp(41,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\paulp\source\repos\visual studio project\visual studio project\main.cpp(42,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Particle.cpp
+  Screen.cpp
+  Swarm.cpp
+  Generating Code...
+  visual studio project.vcxproj -> C:\Users\paulp\source\repos\visual studio project\x64\Debug\visual studio project.exe

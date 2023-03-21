@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\paulp\source\repos\visual studio project\visual studio project\main.cpp(40,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\paulp\source\repos\visual studio project\visual studio project\main.cpp(41,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Particle.cpp
+  Screen.cpp
+C:\Users\paulp\source\repos\visual studio project\visual studio project\Screen.cpp(71,9): warning C4552: '<<': result of expression not used
+  Swarm.cpp
+  Generating Code...
+Debug\main.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
